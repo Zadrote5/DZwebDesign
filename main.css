@@ -1,0 +1,109 @@
+body {
+
+background:white;
+
+}
+
+#window {
+
+  background-image: url(images/fon.jpg);
+  background-size:cover;
+
+height:270px;
+width:630px;
+}
+#text {
+padding-top:5%;
+height:60%;
+width:40%;
+float:left;
+display: inline-block;
+}
+#first{
+float: left;
+height:10%;
+padding-left:5%;
+}
+#second
+{
+float: left;
+padding-top:10%;
+
+}
+#vvod {
+padding-top:5%;
+height:60%;
+width:60%;
+float: right;
+}
+#vvod1 {
+float:right;
+
+
+
+}
+#input {
+padding-top:90%;
+position:fixed;
+}
+.psw {
+padding-right:10%;
+float:left;
+
+}
+
+.go {
+
+padding-top:25%;
+padding-left:35%;
+
+}
+button {
+	margin-top:3%;
+  background-image: url(images/but.jpg);
+  background-size:cover;
+      border: none;
+    color: white;
+    padding: 13px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.vhod {
+font-size:45px;
+color:#3d3d3d;
+
+}
+#vvod2 {
+margin-top:2%;
+
+}
+#chkb {
+float:left;
+
+}
+.psw {
+float:right;
+color:red;
+
+}
+
+#chkb1 {
+padding-top:10%;
+
+}
+
+#tri {
+margin-top:23%;
+
+
+}
+
+a {  color:#34bdeb;}
+a:hover { color:#34bdeb; } 
+
+
+
